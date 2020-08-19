@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e3e2f7-1190-4121-aa3b-9ffcc910eedb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Cytro" />
+  </component>
+  <component name="ProjectId" id="1e4Qfxm5hq4D59QHpZPcf0eWJIx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basemap1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="first" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="first" />
+      </console-settings>
+    </option>
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\extend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\basemap1" />
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\dbf" />
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\excel" />
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\xml1" />
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bank1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/extend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/extend/bank1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extend0818 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/extend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/extend/extend0818.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extend0818" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/matplot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\extend\extend0818.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matplot0817" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/matplot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/matplot/matplot0817.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/extend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/extend/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tree1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\app\Python\Python35\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/budong" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/budong/tree1.py" />
+      <option name="PARAMETERS" value="-i D:/d/python/machine/tree.csv -i out.csv" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tree1" />
+      <item itemvalue="Python.matplot0817" />
+      <item itemvalue="Python.extend0818" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.extend0818 (1)" />
+      <item itemvalue="Python.bank1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.bank1" />
+        <item itemvalue="Python.extend0818 (1)" />
+        <item itemvalue="Python.extend0818" />
+        <item itemvalue="Python.matplot0817" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e3e2f7-1190-4121-aa3b-9ffcc910eedb" name="Default Changelist" comment="" />
+      <created>1593578492003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593578492003</updated>
+      <workItem from="1593578494884" duration="1188000" />
+      <workItem from="1593579776420" duration="2075000" />
+      <workItem from="1593583765732" duration="17057000" />
+      <workItem from="1593657230853" duration="9462000" />
+      <workItem from="1593681670538" duration="2081000" />
+      <workItem from="1593683872346" duration="2972000" />
+      <workItem from="1593687952377" duration="3875000" />
+      <workItem from="1593691899186" duration="1397000" />
+      <workItem from="1593742430658" duration="1031000" />
+      <workItem from="1593771621486" duration="947000" />
+      <workItem from="1593773565219" duration="3331000" />
+      <workItem from="1593928680878" duration="1723000" />
+      <workItem from="1593931879773" duration="5608000" />
+      <workItem from="1593956348010" duration="1216000" />
+      <workItem from="1593998952649" duration="18203000" />
+      <workItem from="1594089995856" duration="3150000" />
+      <workItem from="1594190307965" duration="8092000" />
+      <workItem from="1594818088374" duration="3286000" />
+      <workItem from="1594861416431" duration="7959000" />
+      <workItem from="1594886418534" duration="1224000" />
+      <workItem from="1595244317873" duration="1065000" />
+      <workItem from="1595418362396" duration="678000" />
+      <workItem from="1595478234158" duration="4277000" />
+      <workItem from="1595811108374" duration="18349000" />
+      <workItem from="1595897969328" duration="11919000" />
+      <workItem from="1596019478227" duration="4241000" />
+      <workItem from="1596091876449" duration="4854000" />
+      <workItem from="1596112448762" duration="1399000" />
+      <workItem from="1596115562758" duration="11000" />
+      <workItem from="1596157007079" duration="7744000" />
+      <workItem from="1596168210733" duration="12736000" />
+      <workItem from="1596250219537" duration="315000" />
+      <workItem from="1596252659253" duration="1840000" />
+      <workItem from="1596461777396" duration="738000" />
+      <workItem from="1596973199668" duration="10949000" />
+      <workItem from="1597021819337" duration="3628000" />
+      <workItem from="1597065786076" duration="770000" />
+      <workItem from="1597110544717" duration="11031000" />
+      <workItem from="1597144053580" duration="4036000" />
+      <workItem from="1597197201107" duration="7468000" />
+      <workItem from="1597240512593" duration="1812000" />
+      <workItem from="1597293029779" duration="4134000" />
+      <workItem from="1597298127084" duration="3836000" />
+      <workItem from="1597369643715" duration="5020000" />
+      <workItem from="1597631362093" duration="5369000" />
+      <workItem from="1597718595830" duration="15689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excel/pandas1.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/first$bug1.coverage" NAME="bug1 Coverage Results" MODIFIED="1596113146217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unknown" />
+    <SUITE FILE_PATH="coverage/first$test.coverage" NAME="test Coverage Results" MODIFIED="1594029016919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/first$dbf1.coverage" NAME="dbf1 Coverage Results" MODIFIED="1596985656946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collect/dbf" />
+    <SUITE FILE_PATH="coverage/first$exec1.coverage" NAME="exec1 Coverage Results" MODIFIED="1593957290682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exec1" />
+    <SUITE FILE_PATH="coverage/first$padascut.coverage" NAME="padascut Coverage Results" MODIFIED="1597206718987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$pandas11.coverage" NAME="pandas11 Coverage Results" MODIFIED="1597124655252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$scorecardpy1.coverage" NAME="scorecardpy1 Coverage Results" MODIFIED="1597242136706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/first$turtle3.coverage" NAME="turtle3 Coverage Results" MODIFIED="1594873603848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collect/turtle" />
+    <SUITE FILE_PATH="coverage/first$bokeh1.coverage" NAME="bokeh1 Coverage Results" MODIFIED="1597298714140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basemap1" />
+    <SUITE FILE_PATH="coverage/first$basemap1.coverage" NAME="basemap1 Coverage Results" MODIFIED="1593771508968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basemap1" />
+    <SUITE FILE_PATH="coverage/first$pandas1.coverage" NAME="pandas1 Coverage Results" MODIFIED="1595914392044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$split1.coverage" NAME="split1 Coverage Results" MODIFIED="1594016370952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stackoverflow" />
+    <SUITE FILE_PATH="coverage/first$excel1.coverage" NAME="excel1 Coverage Results" MODIFIED="1594036883853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$pandas4.coverage" NAME="pandas4 Coverage Results" MODIFIED="1596189529408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$spider1.coverage" NAME="spider1 Coverage Results" MODIFIED="1597113009607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1594882405106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collect" />
+    <SUITE FILE_PATH="coverage/first$tree1.coverage" NAME="tree1 Coverage Results" MODIFIED="1596252969724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collect/budong" />
+    <SUITE FILE_PATH="coverage/first$pandas3.coverage" NAME="pandas3 Coverage Results" MODIFIED="1596170870966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$matplot2.coverage" NAME="matplot2 Coverage Results" MODIFIED="1596200059587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collect/matplot" />
+    <SUITE FILE_PATH="coverage/first$sqlite.coverage" NAME="sqlite Coverage Results" MODIFIED="1596030622447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/first$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1596164302932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/first$extend0818__1_.coverage" NAME="extend0818 (1) Coverage Results" MODIFIED="1597761757326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/collect/extend" />
+    <SUITE FILE_PATH="coverage/first$weibo_q.coverage" NAME="weibo_q Coverage Results" MODIFIED="1593601468997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo1" />
+    <SUITE FILE_PATH="coverage/first$genCodeByDatabase.coverage" NAME="genCodeByDatabase Coverage Results" MODIFIED="1594042675396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml1" />
+    <SUITE FILE_PATH="coverage/first$qcut_example1.coverage" NAME="qcut_example1 Coverage Results" MODIFIED="1597122524100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$excel2.coverage" NAME="excel2 Coverage Results" MODIFIED="1595820915340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/first$mysql1.coverage" NAME="mysql1 Coverage Results" MODIFIED="1596092966887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database" />
+    <SUITE FILE_PATH="coverage/first$spider2.coverage" NAME="spider2 Coverage Results" MODIFIED="1594194535230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/first$douban_1.coverage" NAME="douban_1 Coverage Results" MODIFIED="1593605013155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo1" />
+  </component>
+</project>

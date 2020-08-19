@@ -1,0 +1,19 @@
+The idea of artificial neural networks was derived from the neural networks in the human brain.
+The human brain is really complex. Carefully studying the brain, the scientists and engineers
+came up with an architecture that could fit in our digital world of binary computers. One such typical
+architecture is shown in the diagram below
+There is an input layer which has many sensors to collect data from the outside world. On the right
+hand side, we have an output layer that gives us the result predicted by the network. In between these two,
+several layers are hidden. Each additional layer adds further complexity in training the network,
+but would provide better results in most of the situations. There are several types of architectures designed
+ which we will discuss now.
+ANN Architectures
+The diagram below shows several ANN architectures developed over a period of time and are in practice today.
+Source:
+
+https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
+
+Each architecture is developed for a specific type of application. Thus, when you use a neural network
+for your machine learning application, you will have to use either one of the existing architecture or
+design your own. The type of application that you finally decide upon depends on your application needs.
+There is no single guideline that tells you to use a specific network architecture.

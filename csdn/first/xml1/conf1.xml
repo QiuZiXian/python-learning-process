@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+	<tableName>tb_apartment</tableName>
+	<packageName>com.yango.greenhome</packageName>
+	<schema>yango_estate</schema>
+	<module>estate</module>
+	<dbHost>192.168.1.89</dbHost>
+	<dbPort>3306</dbPort>
+	<dbUser>root</dbUser>
+	<dbPassword>test123</dbPassword>
+<fold>
