@@ -2,269 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e3e2f7-1190-4121-aa3b-9ffcc910eedb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/create_table/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/create_table/createTableBat.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/create_table/createTableBat1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/create_table/markdown2createsql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/create_table/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/excel2sql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../auto/excel2sql/excel2sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/first.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/backups/codestyle.ini.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/backups/encoding.ini.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/backups/vcs.ini.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/backups/workspace.ini.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/codestyle.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-codestyle-0.2.0.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-encoding-0.2.0.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-vcs-0.2.0.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-workspace-0.2.0.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/encoding.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/vcs.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.spyproject/config/workspace.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7777.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/888.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/999.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cytro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/basemap1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/basemap2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/bokeh1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/cities.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/heihei.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/3dpoints.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/3dpoints.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/3dpoints.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/anno.aux" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/anno.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/anno.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/anno.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/brklinz.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/brklinz.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/brklinz.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/csah.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/csah.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/csah.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/masspntz.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/masspntz.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/masspntz.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/cities.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/cities.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/cities.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/cities.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/cities.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/drainage.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/drainage.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/drainage.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/drainage.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/drainage.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/lakes.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/lakes.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/lakes.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/lakes.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/lakes.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/rivers.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/rivers.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/rivers.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/rivers.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/rivers.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads_rt.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads_rt.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads_rt.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads_rt.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/roads_rt.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/states.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/states.sbn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/states.sbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/states.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mexico/states.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mpatch3.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mpatch3.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/mpatch3.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/multipatch.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/multipatch.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/multipatch.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/multipnt.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/multipnt.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/multipnt.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/pline.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/pline.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/pline.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/polygon.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/polygon.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basemap1/shape_eg_data/polygon.shx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cities.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/budong/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/budong/phone_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/budong/tree1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/cv/examp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/dbf/0.DBF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/dbf/1.DBF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/dbf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/dbf/dbf1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/dbf/dbf2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/dbf/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/extend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/extend/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/extend/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/extend/bank1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/extend/extend0818.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/extend/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/json/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/json/json1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/json/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/machine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/machine/lda1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/machine/machine1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/a1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/acc3axis_m.v.1.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/animate_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/animation1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/matplot0817.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/matplot1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/matplot2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/matplot3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/matplot4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/matplot/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/turtle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/turtle/pygame1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/turtle/turtle1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/turtle/turtle2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/turtle/turtle3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collect/turtle/turtle4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/mysql1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/sqlite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/test.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/11.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/111.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/123.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/22.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/baobiao1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/code.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/excel1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/excel2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/merg1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/out.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/padascut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pandas0818.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pandas1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pandas11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pandas2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pandas3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pandas4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/product.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/qcut_example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/spider1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/结果.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exec1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exec1/exec1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exec1/exec2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/har2case" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx_uwsgi_django/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx_uwsgi_django/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx_uwsgi_django/uwsgi.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scorecardpy1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/11stxp.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/curl1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/headToDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spider7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/stock1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/stock2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/tmp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stackoverflow/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stackoverflow/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stackoverflow/split1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unknown/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unknown/bug1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo1/ch1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo1/douban_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo1/reviews.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo1/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo1/weibo_q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml1/conf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml1/conf1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml1/genCodeByDatabase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml1/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml1/xml1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/.idea/importtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/test1/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/test1/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/testmain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../importtest/testmain2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/dictionaries/87875.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/.idea/zhihu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/email/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/email/email1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/qr_code/verification_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/qrcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/count_text1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/draw001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/qr001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zhihu/xiti/resize_img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -280,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Cytro" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1e4Qfxm5hq4D59QHpZPcf0eWJIx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -295,7 +33,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/basemap1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/collect/gui1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -308,15 +46,15 @@
     <option name="myIpythonEnabled" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\extend" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\gui1" />
       <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\basemap1" />
       <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\dbf" />
       <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\excel" />
       <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\xml1" />
-      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\extend" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -331,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.tushare1">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,6 +92,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="atm1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/gui1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/gui1/atm1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="atm2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/gui1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/gui1/atm2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bank1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -368,72 +150,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/extend/bank1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="extend0818 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="first" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/extend" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/extend/extend0818.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="extend0818" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="first" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/matplot" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\APP_FILE\python\aku\2020\project\csdn\first\collect\extend\extend0818.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="matplot0817" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="first" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/collect/matplot" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect/matplot/matplot0817.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -486,21 +202,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tushare1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basemap1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basemap1/tushare1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.tree1" />
-      <item itemvalue="Python.matplot0817" />
-      <item itemvalue="Python.extend0818" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.extend0818 (1)" />
       <item itemvalue="Python.bank1" />
+      <item itemvalue="Python.atm1" />
+      <item itemvalue="Python.atm2" />
+      <item itemvalue="Python.tushare1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tushare1" />
+        <item itemvalue="Python.atm2" />
+        <item itemvalue="Python.atm1" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.bank1" />
-        <item itemvalue="Python.extend0818 (1)" />
-        <item itemvalue="Python.extend0818" />
-        <item itemvalue="Python.matplot0817" />
       </list>
     </recent_temporary>
   </component>
@@ -560,7 +295,9 @@
       <workItem from="1597369643715" duration="5020000" />
       <workItem from="1597631362093" duration="5369000" />
       <workItem from="1597718595830" duration="15689000" />
-      <workItem from="1597838600105" duration="344000" />
+      <workItem from="1597838600105" duration="3204000" />
+      <workItem from="1597977539371" duration="2954000" />
+      <workItem from="1598082582512" duration="1986000" />
     </task>
     <servers />
   </component>
