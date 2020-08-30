@@ -6,4 +6,5 @@
 *.iml
 *.ipr
 .gitignore
+/**/spider0822.py
 /csdn/first/spider/spider0822.py
