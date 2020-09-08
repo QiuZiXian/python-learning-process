@@ -1,0 +1,10 @@
+function test()
+    max = 200
+    for n = 1:max
+        A = randn([1, 2, 3], 3, 3)
+        value = det(A)
+        if value != 0
+            println(A)
+        end
+    end
+end

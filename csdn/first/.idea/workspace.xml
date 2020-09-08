@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e3e2f7-1190-4121-aa3b-9ffcc910eedb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../extend_work/four/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../extend_work/four/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -206,6 +206,9 @@
       <module name="first" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basemap1" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -298,6 +301,7 @@
       <workItem from="1597838600105" duration="3204000" />
       <workItem from="1597977539371" duration="2954000" />
       <workItem from="1598082582512" duration="1986000" />
+      <workItem from="1599231514360" duration="215000" />
     </task>
     <servers />
   </component>
