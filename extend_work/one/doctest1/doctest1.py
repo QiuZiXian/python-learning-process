@@ -12,3 +12,8 @@ def my_function(a, b):
     'aaa'
     """
     return a * b
+
+
+if __name__ == '__main__':
+    import doctest
+    doctest.testmod()
